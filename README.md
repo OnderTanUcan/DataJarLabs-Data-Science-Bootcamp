@@ -5,4 +5,7 @@ Courses: Python for Everyone, Further into Python, Python Data Science Libraries
 
 Python Libraries Used: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scipy, Scikit-learn, XGBoost , LightGBM,Tensorflow, Keras etc.
 
+Kaggle link for the EDA Project Data: https://www.kaggle.com/c/titanic
+
 Kaggle link for the Supervised Machine Learning Project Data: https://www.kaggle.com/spscientist/students-performance-in-exams
+
